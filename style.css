@@ -1,0 +1,25 @@
+a{
+    
+    font-weight: bold;
+    font-size: 3rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    display:block;
+    letter-spacing: -0.3rem;
+}
+
+
+section{
+    text-align: center;
+    font-weight: bold;
+}
+
+section > nav {
+    
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    font-weight: inherit;
+}
